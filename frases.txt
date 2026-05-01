@@ -1,0 +1,19 @@
+Lei 8.112: Qual o prazo para o servidor empossado entrar em exercício?;15 dias (contados da data da posse)
+Lei 8.112: Qual o prazo máximo para a posse ocorrer após a publicação do ato de provimento?;30 dias
+Lei 8.112: O que acontece se o servidor não entrar em exercício no prazo de 15 dias?;Será exonerado do cargo
+Lei 8.112: O que acontece se a posse não ocorrer no prazo de 30 dias?;O ato de provimento será tornado sem efeito
+Lei 8.112: Quais são as formas de provimento? (Mnemônico PANORRA);Promoção, Aproveitamento, Nomeação, Readaptação, Reversão, Reintegração e Recondução
+Lei 8.112: O que é Reintegração?;Retorno do servidor estável após demissão ilegal (com ressarcimento)
+Lei 8.112: O que é Reversão?;Retorno à atividade do servidor aposentado (ex: invalidez insubsistente)
+Lei 8.112: Quais são as formas de Vacância? (Mnemônico PADRE PF);Promoção, Ascensão (revogada), Demissão, Readaptação, Exoneração, Posse em cargo inacumulável e Falecimento
+Lei 8.112: Qual o prazo de conclusão de um PAD (Processo Administrativo Disciplinar)?;60 dias, prorrogáveis por mais 60
+Lei 8.112: Qual o prazo de prescrição para a pena de DEMISSÃO?;5 anos
+Lei 8.112: Qual o prazo de prescrição para a pena de SUSPENSÃO?;2 anos
+Lei 8.112: Qual o prazo de prescrição para a pena de ADVERTÊNCIA?;180 dias
+Lei 8.112: A licença por motivo de doença em pessoa da família é remunerada?;Sim, até 60 dias (completos ou não) em 12 meses; após isso, sem remuneração
+Lei 8.112: Servidor em estágio probatório pode exercer cargo em comissão?;Sim, mas apenas para cargos de natureza especial, DAS 6, 5 e 4 (ou equivalentes)
+Lei 8.112: O que é Recondução?;Retorno do servidor estável ao cargo anterior devido à inabilitação em estágio probatório de outro cargo
+Lei 8.112: A punição disciplinar na esfera administrativa depende da condenação criminal?;Não, as instâncias são independentes (salvo em caso de absolvição criminal por negativa de autoria ou inexistência do fato)
+Lei 8.112: É permitida a acumulação remunerada de dois cargos de técnico ou cientista?;Não. A regra permite: 2 de professor; 1 de professor + 1 técnico/científico; ou 2 de profissionais de saúde (regulamentados)
+Lei 8.112: Qual o prazo para o servidor removido de ofício (que exige mudança de sede) retomar o serviço?;Mínimo de 10 e máximo de 30 dias (período de trânsito)
+dsadsa
