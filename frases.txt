@@ -16,3 +16,4 @@ Lei 8.112: O que é Recondução?;Retorno do servidor estável ao cargo anterior
 Lei 8.112: A punição disciplinar na esfera administrativa depende da condenação criminal?;Não, as instâncias são independentes (salvo em caso de absolvição criminal por negativa de autoria ou inexistência do fato)
 Lei 8.112: É permitida a acumulação remunerada de dois cargos de técnico ou cientista?;Não. A regra permite: 2 de professor; 1 de professor + 1 técnico/científico; ou 2 de profissionais de saúde (regulamentados)
 Lei 8.112: Qual o prazo para o servidor removido de ofício (que exige mudança de sede) retomar o serviço?;Mínimo de 10 e máximo de 30 dias (período de trânsito)
+dsadsa
